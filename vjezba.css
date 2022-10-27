@@ -12,7 +12,7 @@
 
   body {
     margin:auto;
-    background-image: url("../images/rome.jpg");
+    background-image: url("./rome.jpg");
     background-size: 100% 100%;
     max-width: 960px;
   }
