@@ -11,18 +11,18 @@ header {
   display: flex;
   font-size: 1.6rem;
   line-height: 2.4rem;
-  /* font-family: inter, sans-serif; */
+  font-family: inter, sans-serif;
   background: #a0a081;
-  /* z-index: 20; */
-  /* position: sticky; */
-  /* top: 0;
-  left: 0; */
+  z-index: 20;
+  position: sticky;
+  top: 0;
+  left: 0;
   transition: top 0.5s ease;
   box-shadow: 0 2px 4px rgb(140 140 109 / 31%);
-  /* font-weight: 700; */
+  font-weight: 700;
   background-size: 100% 100%;
-  /* margin: auto; */
-  /* width: 100vw; */
+  margin: auto;
+  width: 100vw;
   justify-content: space-evenly;
 }
 
